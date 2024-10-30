@@ -1,0 +1,17 @@
+===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~
+# Saint Paul, MN, USA area
+
+KMSP: Saint Paul - Minneapolis
+KANE: Anoka
+
+
+===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~
+# South India
+
+VOCI: Cochin Intl
+VVOC: Cochin
+VOCB: Coimbatore
+VOCL: Calicut
+VOSX: Sulur
+
+Trivandrum
