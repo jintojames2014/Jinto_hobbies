@@ -1,0 +1,25 @@
+Seed values used in various Factorio runs
+
+# --~~~---~~~---~~~---~~~---~~~---~~~---~~~---~~~---~~~---~~~
+#Version: No mods: default setting
+seed values:
+
+(1): 
+
+
+
+Map version: 2.0.11-3
+Scenario: freeplay
+Mods: base2.0.11
+
+
+
+[a] Map exchange string:
+>>>eNpjYmBg4GZgZmDgYUnOT8xhYGiwh2Gu5PyCgtQi3fyiVGRhzuSi0pRU3fxMVMWpeam5lbpJicUoijkyi/Lz0E3gyUssLcssjk/OyUxLQ5ZgLcpPzi5GFhErLkksKsnMS49PLEpNjM/NzywuKUU1jbW4JD8PVaSkKDUVxRju0qLEvMzSXHSXsJYnlqQWIYswMJ7f+uFhQ4scAwj/r2dQ+P8fhIGsB8CgAmEGxgaIakagIAywQj3DoOAIxE4I4xgZq0XWuT+smmLPCFGp5wBlfICKHEiCiXjCGH4OOKVUYAwTJHOMweAzEgNiaQnQCqgqDgcEAyLZApJkZOx9u3XB92MX7Bj/rPx4yTcpwZ7R0FXk3QejdXZASXaQd5ngxKyZILAT5hUGmJkP7KFSN+0Zz54BgTf2jKwgHSIgwsECSBzwZmZgFOADshb0AAkFGQaY0+xgxog4MKaBwTeYTx7DGJft0f0BDAgbkOFyIOIEiABbCHcZI4Tp0O/A6CAPk5VEKAHqN2JAdkMKwocnYdYeRrIfzSGYEYHsDzQRFQcs0cAFsjAFTrxghrsGGJ4X2GE8h/kOjMwgBkjVF6AYhAeSgRkFoQUcwMHNDE+UH+xRUxqIATKEVZ9JDABix76L<<<
+
+
+# --~~~---~~~---~~~---~~~---~~~---~~~---~~~---~~~---~~~---~~~
+
+#Version: Nullius: default setting
+seed values: Nullius
+Map version: 1.1
