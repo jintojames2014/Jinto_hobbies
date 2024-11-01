@@ -4,6 +4,12 @@
 KMSP: Saint Paul - Minneapolis
 KANE: Anoka
 
+KSTP: St Paul Downtown Holman FLD
+MY21: Kollar's Shoreview Marine SeaPlane base
+
+8Y4 : Surfside
+MY18: Lino Air park
+
 
 ===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~===~~~
 # South India
